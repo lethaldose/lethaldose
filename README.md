@@ -1,6 +1,7 @@
 Hi there I’m Atul 👋
 
-- 🤹 I’m a developer and an architect. I like designing complex systems.
+- 🤹 I’m a developer and an architect
+- ☕ I try to undertand business problems and design simple solutions
 - 🧰 I have extensive experience building microservices api platforms and SPA apps
 - 📖 I like reading sci fi and non fiction books
 - 👺 I like watching movies and anime
